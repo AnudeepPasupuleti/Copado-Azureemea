@@ -52,4 +52,13 @@ public class PmdRuleTriggerExample {
             }
         }
     }
+
+    // ❌ AvoidBooleanMethodParameters
+    public static void processData(Boolean isActive) {
+        if (isActive) {
+            System.debug('Active flow');
+        } else {
+            System.debug('Inactive flow');
+        }
+    }
 }
