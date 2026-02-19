@@ -22,3 +22,4 @@ Quick Reference:
 - weekly leader switch
 - products used - CICD , CRT, Express
 - incoming: agentia
+- gather techncial reqs
