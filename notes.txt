@@ -17,3 +17,4 @@ Quick Reference:
 - test classes
 - narrow down scope
 - include our agentic ai
+- create a stable architecture
