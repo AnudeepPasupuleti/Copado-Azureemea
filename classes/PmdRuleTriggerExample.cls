@@ -1,3 +1,7 @@
+/**
+ * Example class demonstrating PMD rule violations
+ * Used for testing static code analysis rules
+ */
 public class PmdRuleTriggerExample {
 
     public static void badCryptoExample() {
