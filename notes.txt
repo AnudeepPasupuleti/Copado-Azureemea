@@ -20,4 +20,5 @@ Quick Reference:
 - create a stable architecture
 - weekly sprint breakdown
 - weekly leader switch
-- products used -
+- products used - CICD , CRT, Express
+- incoming: agentia
