@@ -1,0 +1,11 @@
+Project Notes
+=============
+
+Date: February 19, 2026
+
+This repository contains Salesforce metadata for Copado Azure EMEA.
+
+Quick Reference:
+- Classes: Custom Apex classes
+- Objects: Custom objects and fields
+- StandardValueSets: Standard value set definitions
