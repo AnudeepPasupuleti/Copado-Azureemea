@@ -19,3 +19,4 @@ Quick Reference:
 - include our agentic ai
 - create a stable architecture
 - weekly sprint breakdown
+- weekly leader switch
