@@ -18,3 +18,4 @@ Quick Reference:
 - narrow down scope
 - include our agentic ai
 - create a stable architecture
+- weekly sprint breakdown
