@@ -14,3 +14,4 @@ Quick Reference:
 - test uat
 - test main
 - support triage
+- test classes
