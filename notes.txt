@@ -23,3 +23,6 @@ Quick Reference:
 - products used - CICD , CRT, Express
 - incoming: agentia
 - gather techncial reqs
+
+list of stuf:
+a
