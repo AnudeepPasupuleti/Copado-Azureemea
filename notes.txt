@@ -20,3 +20,4 @@ Quick Reference:
 - create a stable architecture
 - weekly sprint breakdown
 - weekly leader switch
+- products used -
