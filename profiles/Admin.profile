@@ -11,11 +11,6 @@
         <field>Account.Copado__c</field>
         <readable>true</readable>
     </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>Account.is_a_good_boy__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
     <loginIpRanges>
         <description>All</description>
         <endAddress>255.255.255.255</endAddress>
