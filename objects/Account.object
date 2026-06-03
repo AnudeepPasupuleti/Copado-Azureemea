@@ -349,6 +349,17 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
+        <fullName>Square_Name_10__c</fullName>
+        <externalId>false</externalId>
+        <label>Square Name 10</label>
+        <length>80</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Square_Name_2__c</fullName>
         <externalId>false</externalId>
         <label>Square Name 2</label>
